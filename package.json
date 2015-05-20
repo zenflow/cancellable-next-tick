@@ -1,0 +1,36 @@
+{
+  "name": "cancellable-next-tick",
+  "version": "1.0.0",
+  "description": "Wrapper around process.nextTick returning a cancel function",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenflow/cancellable-next-tick"
+  },
+  "keywords": [
+    "nextTick",
+    "next",
+    "tick",
+    "wrap",
+    "wrapper",
+    "cancel",
+    "cancellable",
+    "cancelling",
+    "clear",
+    "clearable",
+    "clearing"
+  ],
+  "author": "Matthew Francis Brunetti <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenflow/cancellable-next-tick/issues"
+  },
+  "homepage": "https://github.com/zenflow/cancellable-next-tick",
+  "devDependencies": {
+    "lodash": "^3.9.1",
+    "tape": "^4.0.0"
+  }
+}
