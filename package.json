@@ -1,6 +1,6 @@
 {
   "name": "cancellable-next-tick",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper around process.nextTick returning a cancel function",
   "main": "lib/index.js",
   "scripts": {
