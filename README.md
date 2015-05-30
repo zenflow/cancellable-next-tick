@@ -10,12 +10,16 @@ Wrapper around process.nextTick returning a cancel function
     cancel();
 ```
 
-## use case
+## example use case
 Check out [this example](https://github.com/zenflow/cancellable-next-tick/tree/master/examples/model)
 
 ## changelog
+
+### 1.0.3
+* Enhanced model example
+
 ### 1.0.2
-* Added 'model' exmaple as use-case example
+* Added 'model' example as use-case example
 
 ### 1.0.1
 * Enhanced readme
